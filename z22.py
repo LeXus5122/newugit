@@ -16,3 +16,4 @@ common.sort()
 
 for num in common:
     print(num)
+и тут правки
